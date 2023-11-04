@@ -1,0 +1,16 @@
+Nombre del estudiante: Cristian Chamo
+Notas: 84.0, 75.0, 97.0, 56.0
+Promedio: 0.0
+
+Nombre del estudiante: Josue Moralaes 
+Notas: 67.0, 86.0, 46.0, 87.0
+Promedio: 71.5
+
+Nombre del estudiante: Angel Marroquin
+Notas: 89.0, 23.0, 54.0, 89.0
+Promedio: 63.75
+
+Nombre del estudiante: Maria Lopez
+Notas: 34.0, 56.0, 46.0, 90.0
+Promedio: 56.5
+
